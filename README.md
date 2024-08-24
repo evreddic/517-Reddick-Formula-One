@@ -4,7 +4,7 @@
 
 ## Introduction to Formula 1 Racing
 
-[Formula 1](https://www.formula1.com/) is the highest tier of racing within the larger organization that is over other formula series such as Formula 2, 3, and 4. Formula 1 is a racing series that has reached global status as the premier stage for drivers to prove themselves by racing around some of the worlds toughest and fastest tracks. The cars that are driven by these drivers are some of the fastest in the world and are being produced by companies who are on the edge of the automotive engineering world. The tracks these cars are tested on span continents; some of these tracks being located on the streets of [Monaco] or in the forest of [Belgium]. Today we are going to highlight one Formula 1 team that has a storied history within the sport whose story will help us learn more about Formula 1 as a whole. 
+[Formula 1](https://www.formula1.com/) is the highest tier of racing within the larger organization that is over other formula series such as Formula 2, 3, and 4. Formula 1 is a racing series that has reached global status as the premier stage for drivers to prove themselves by racing around some of the worlds toughest and fastest tracks. The cars that are driven by these drivers are some of the fastest in the world and are being produced by companies who are on the edge of the automotive engineering world. The tracks these cars are tested on span continents; some of these tracks being located on the streets of [Monaco] or in the forests of [Belgium]. Today we are going to highlight one Formula 1 team that has a storied history within the sport whose story will help us learn more about Formula 1 as a whole. 
 
 
 ## McLaren F1 Team  
