@@ -12,7 +12,14 @@
 
 McLaren Racing Limited was founded in Surrey, England by a subsidary team of the parent company, McLaren Group. It is the second oldest team still active in Formula 1 today having won 185 races total, producing 12 [drivers' championships](https://www.formula1.com/en/results/2024/team) and 8 [constructors' championships](https://www.formula1.com/en/results/2024/drivers). The team founded by Bruce McLaren, won its first race at the 1968 Belgian Grand Prix with their [McLaren M7A race car]. The team found mild success throughout the the rest of the 60's and early 70's but would quickly have some of the best drivers Formula 1 would ever see racing for them. The team would go on to see great success in the 80's and 90's winning the 85',86',89',88',90', and 91' driver championships while providing incredible automotive breakthroughs to groundbreaking drivers such as Aryton Senna. Today, McLaren has seen some downfalls and is considered a "midpack" team often times but is slowly trying to recapture previous success. The current drivers for the 2024 season are Oscar Piastri and Lando Norris
 
-image
+![McLaren M7A](images/McLaren%20M7a.jpg)
+
+   **The McLaren M7A**
+
+![Oscar Piastri and Lando Norris](images/OandL.jpg)
+
+**Oscar Piastri (Left) and Lando Norris (Right)**
+
 
 
 
