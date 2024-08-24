@@ -51,7 +51,7 @@ _Michael Schumacher won 91 races during his active career before retirement_
 4. Sebastian Vettel  
 _Sebastian Vettel won 53 races over the span of his career and all of his championships were won with Red Bull F1 Team_
 5. Alain Prost  
-_Alain Prost won 51 races over the span of his career, many with Mclaren_
+_Alain Prost won 51 races over the span of his career, many with McLaren_
 
 
 [Monaco]: https://www.formula1.com/en/information/monaco-circuit-de-monaco-monte-carlo.2ZWRtIcSI6ZzVGX1uGRpkJ
